@@ -4,4 +4,4 @@
 - 💞️ Dispuesto a colaborar en proyectos de datos e inteligencia artificial y temas innovadores
 - 📫 ¿Cómo contactarme? Fácil: stevenhm88@hotmail.com
 
--- [English version](https://github.com/stevenhm88/stevenhm88/blob/main/README.md)
+-- ⚡[English version](https://github.com/stevenhm88/stevenhm88/blob/main/README.md)
